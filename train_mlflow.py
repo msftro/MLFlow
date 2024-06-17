@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import scikitplot as skplot
 
 # Carrega os dados do arquivo CSV
-df = pd.read_csv('../data/dados_pontos.csv', sep=';')
+df = pd.read_csv('..\MLFlow\data\dados_pontos.csv', sep=';')
 df.head()  # Exibe as primeiras linhas do DataFrame para visualização
 
 
