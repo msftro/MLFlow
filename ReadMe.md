@@ -1,12 +1,8 @@
-# Machine Learning
+# MLflow
 
-<img src="https://github.com/msftro/MLFlow/assets/145237548/cdc4e2ec-5835-43ac-805b-b5fb26573d06" border="0" alt="young-man-sitting-at-his-desk-studying-late-at-night">
+<img src="https://github.com/msftro/MLFlow/assets/145237548/9508808d-31ba-46da-9ac7-d1b67afb4df3" border="0" alt="young-man-sitting-at-his-desk-studying-late-at-night">
 
-## Resumo
-
-Exploração de técnicas de *Machine Learning* utilizando MLflow com foco no aprendizado de MLOps (*Machine Learning Operations*).
-
-## MLflow
+## Introdução
 
 MLflow é uma plataforma open-source projetada para gerenciar o ciclo de vida de aprendizado de máquina. Criada pela Databricks, MLflow ajuda a rastrear e organizar os experimentos de *machine learning*, facilitando o gerenciamento e a implantação de modelos em produção.
 
@@ -47,6 +43,8 @@ Para mais detalhes sobre como usar o MLflow, consulte a [documentação oficial]
 
 Se você deseja contribuir com este projeto, por favor, faça um *fork* do repositório e envie um *pull request* com suas alterações.
 
-## Quem sou eu
+## Contato
 
-[Márcio Ferreira](https://www.linkedin.com/in/ms-ferreira/).
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato:
+
+- LinkedIn: [Márcio Ferreira](https://www.linkedin.com/in/ms-ferreira)
